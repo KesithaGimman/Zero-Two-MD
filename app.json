@@ -21,7 +21,7 @@
   },
   "OPENAI_API_KEY": {
     "description": "Put your OPENAI key here.If you don't have just go on beta.openai.com/signup and get your key.",
-       "value": "Paste here"
+       "value": "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"
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required)"
@@ -36,8 +36,8 @@
   },
   "SPACK_NAME": {
     "description": "Put Your Sticker Pack Name",
-     "value": "Zero-Two",
-     "required": false
+     "value": "Zozo",
+     "required": true
   }
 },
    "buildpacks": [
