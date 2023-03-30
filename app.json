@@ -24,7 +24,7 @@
        "value": "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"
   },
   "MONGODB_URI": {
-    "description": "A secret String for Mongodb Connection.(Required)"
+    "description": "https://cloud.mongodb.com/v2/6425800668d9432cb9744c55#/clusters"
   },
     "LANGUAGE": {
     "description": "Language you want to use, please enter correct lang code.only english version avilable for now. Use EN-English, SP-Spanish Hi-Hindi.",
